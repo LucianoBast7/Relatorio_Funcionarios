@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este relatório fornece uma análise detalhada dos funcionários e dos clientes associados à empresa, segmentando dados por área, nível de contratação, valor de contrato e quadro de funcionários. Ele está organizado em três seções principais: **Resumo Geral**, **Clientes**, e **Funcionários**.
+Este relatório criado com Power BI fornece uma análise detalhada dos funcionários e dos clientes associados à empresa, segmentando dados por área, nível de contratação, valor de contrato e quadro de funcionários. Ele está organizado em três seções principais: **Resumo Geral**, **Clientes**, e **Funcionários**.
 
 ## Seções do Relatório
 
